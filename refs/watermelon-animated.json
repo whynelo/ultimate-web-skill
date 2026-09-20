@@ -1,0 +1,1687 @@
+[
+  {
+    "slug": "aave-swap-component",
+    "title": "Aave Swap Component",
+    "category": "micro-interaction",
+    "description": "Interactive cryptocurrency exchange interface with animated number inputs and value calculations.",
+    "usecases": [
+      "forms",
+      "data",
+      "mascot_companion"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/aave-swap-component.json",
+    "preview": "https://ui.watermelon.sh/animated-components/aave-swap-component",
+    "registry": "https://registry.watermelon.sh/r/aave-swap-component.json"
+  },
+  {
+    "slug": "activities-card",
+    "title": "Activities Card",
+    "category": "disclosure",
+    "description": "An expandable activities card with smooth spring animations and a premium 3D header aesthetic.",
+    "usecases": [
+      "nav",
+      "onboarding",
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/activities-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/activities-card",
+    "registry": "https://registry.watermelon.sh/r/activities-card.json"
+  },
+  {
+    "slug": "adaptive-slider",
+    "title": "Adaptive Slider",
+    "category": "sliders",
+    "description": "A smooth, color-shifting slider with caloric value tracking.",
+    "usecases": [
+      "carousel"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/adaptive-slider.json",
+    "preview": "https://ui.watermelon.sh/animated-components/adaptive-slider",
+    "registry": "https://registry.watermelon.sh/r/adaptive-slider.json"
+  },
+  {
+    "slug": "add-cash-disclosure",
+    "title": "Add Cash Disclosure",
+    "category": "disclosure",
+    "description": "Disclosure panel explaining add-cash details, limits, fees, and confirmation.",
+    "usecases": [
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/add-cash-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/add-cash-disclosure",
+    "registry": "https://registry.watermelon.sh/r/add-cash-disclosure.json"
+  },
+  {
+    "slug": "budget-card",
+    "title": "Budget Card",
+    "category": "cards",
+    "description": "Budget overview card tracking spending, limits, and remaining balance.",
+    "usecases": [
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/budget-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/budget-card",
+    "registry": "https://registry.watermelon.sh/r/budget-card.json"
+  },
+  {
+    "slug": "calendar-widget",
+    "title": "Calendar Widget",
+    "category": "widgets",
+    "description": "An animated calendar widget featuring progressive blur effects that enhance depth and focus during interaction.",
+    "usecases": [
+      "onboarding",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/calendar-widget.json",
+    "preview": "https://ui.watermelon.sh/animated-components/calendar-widget",
+    "registry": "https://registry.watermelon.sh/r/calendar-widget.json"
+  },
+  {
+    "slug": "card-cue",
+    "title": "Card Cue",
+    "category": "micro-interaction",
+    "description": "Interactive micro-interaction component.",
+    "usecases": [
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/card-cue.json",
+    "preview": "https://ui.watermelon.sh/animated-components/card-cue",
+    "registry": "https://registry.watermelon.sh/r/card-cue.json"
+  },
+  {
+    "slug": "card-split-accordian",
+    "title": "Card Split Accordian",
+    "category": "accordian",
+    "description": "An animated card split accordion that smoothly expands to reveal detailed information.",
+    "usecases": [
+      "hero",
+      "onboarding",
+      "cards",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/card-split-accordian.json",
+    "preview": "https://ui.watermelon.sh/animated-components/card-split-accordian",
+    "registry": "https://registry.watermelon.sh/r/card-split-accordian.json"
+  },
+  {
+    "slug": "card-swipe",
+    "title": "Card Swipe",
+    "category": "interaction",
+    "description": "A tactile, gesture-driven card stack that supports velocity-based swiping and smooth pagination.",
+    "usecases": [
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/card-swipe.json",
+    "preview": "https://ui.watermelon.sh/animated-components/card-swipe",
+    "registry": "https://registry.watermelon.sh/r/card-swipe.json"
+  },
+  {
+    "slug": "carousel-navigator",
+    "title": "Carousel Navigator",
+    "category": "micro-interaction",
+    "description": "A dynamic carousel navigator with theme-adaptive background transitions and progress-syncing indicators.",
+    "usecases": [
+      "nav",
+      "onboarding",
+      "carousel"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/carousel-navigator.json",
+    "preview": "https://ui.watermelon.sh/animated-components/carousel-navigator",
+    "registry": "https://registry.watermelon.sh/r/carousel-navigator.json"
+  },
+  {
+    "slug": "carousel-slider",
+    "title": "Carousel Slider",
+    "category": "interaction",
+    "description": "A playful, gesture-driven card carousel with spring-based rotation and smooth scaling.",
+    "usecases": [
+      "cards",
+      "carousel"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/carousel-slider.json",
+    "preview": "https://ui.watermelon.sh/animated-components/carousel-slider",
+    "registry": "https://registry.watermelon.sh/r/carousel-slider.json"
+  },
+  {
+    "slug": "pagination",
+    "title": "pagination",
+    "category": "pagination",
+    "description": "A smooth draggable ruler-style picker for selecting numeric values with spring snapping.",
+    "usecases": [
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/pagination.json",
+    "preview": "https://ui.watermelon.sh/animated-components/pagination",
+    "registry": "https://registry.watermelon.sh/r/pagination.json"
+  },
+  {
+    "slug": "changeable-pricing-section",
+    "title": "Changeable Pricing Section",
+    "category": "marketing",
+    "description": "A premium interactive pricing selector with animated billing toggle, expandable plan details, and smooth spring-driven transitions for modern SaaS checkout flows.",
+    "usecases": [
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/changeable-pricing-section.json",
+    "preview": "https://ui.watermelon.sh/animated-components/changeable-pricing-section",
+    "registry": "https://registry.watermelon.sh/r/changeable-pricing-section.json"
+  },
+  {
+    "slug": "collection-grid-disclosure",
+    "title": "Collection Grid Disclosure",
+    "category": "micro-interaction",
+    "description": "An animated collection grid that smoothly expands to reveal additional content on interaction.",
+    "usecases": [
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/collection-grid-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/collection-grid-disclosure",
+    "registry": "https://registry.watermelon.sh/r/collection-grid-disclosure.json"
+  },
+  {
+    "slug": "command-search",
+    "title": "Command Search",
+    "category": "navigation",
+    "description": "A premium command palette with sectioned results, keyboard navigation, and smooth animations.",
+    "usecases": [
+      "nav",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/command-search.json",
+    "preview": "https://ui.watermelon.sh/animated-components/command-search",
+    "registry": "https://registry.watermelon.sh/r/command-search.json"
+  },
+  {
+    "slug": "compose-email-card",
+    "title": "Compose Email Card",
+    "category": "cards",
+    "description": "Compact card interface for composing emails with recipient, subject, actions.",
+    "usecases": [
+      "cards",
+      "mascot_companion"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/compose-email-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/compose-email-card",
+    "registry": "https://registry.watermelon.sh/r/compose-email-card.json"
+  },
+  {
+    "slug": "contextual-ai-bar",
+    "title": "Contextual AI Bar",
+    "category": "micro-interaction",
+    "description": "A sleek, adaptive action bar that toggles between tool icons and an AI-powered input field with smooth morphing transitions.",
+    "usecases": [
+      "hero",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/contextual-ai-bar.json",
+    "preview": "https://ui.watermelon.sh/animated-components/contextual-ai-bar",
+    "registry": "https://registry.watermelon.sh/r/contextual-ai-bar.json"
+  },
+  {
+    "slug": "continuous-pagination",
+    "title": "Continuous Pagination",
+    "category": "pagination",
+    "description": "A premium, fully responsive pagination component featuring spring animations and a 3D-styled active state with a dynamic shimmer effect.",
+    "usecases": [
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/continuous-pagination.json",
+    "preview": "https://ui.watermelon.sh/animated-components/continuous-pagination",
+    "registry": "https://registry.watermelon.sh/r/continuous-pagination.json"
+  },
+  {
+    "slug": "continuous-tabs",
+    "title": "Continuous Tabs",
+    "category": "tabs",
+    "description": "Button-like tabs with a smooth sliding background pill.",
+    "usecases": [
+      "nav",
+      "cta",
+      "social"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/continuous-tabs.json",
+    "preview": "https://ui.watermelon.sh/animated-components/continuous-tabs",
+    "registry": "https://registry.watermelon.sh/r/continuous-tabs.json"
+  },
+  {
+    "slug": "copy-confirm",
+    "title": "Copy Confirm",
+    "category": "micro-interaction",
+    "description": "Interactive micro-interaction component for copy confirm.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/copy-confirm.json",
+    "preview": "https://ui.watermelon.sh/animated-components/copy-confirm",
+    "registry": "https://registry.watermelon.sh/r/copy-confirm.json"
+  },
+  {
+    "slug": "create-community",
+    "title": "Create Community",
+    "category": "dialog",
+    "description": "Dialog for creating communities with name, description, and settings.",
+    "usecases": [
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/create-community.json",
+    "preview": "https://ui.watermelon.sh/animated-components/create-community",
+    "registry": "https://registry.watermelon.sh/r/create-community.json"
+  },
+  {
+    "slug": "create-new-disclosure",
+    "title": "Create New Disclosure",
+    "category": "disclosure",
+    "description": "A stylish \"Create New\" disclosure component that expands from a pill-shaped button into a rich grid of actions.",
+    "usecases": [
+      "cta",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/create-new-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/create-new-disclosure",
+    "registry": "https://registry.watermelon.sh/r/create-new-disclosure.json"
+  },
+  {
+    "slug": "credit-usage-card",
+    "title": "Credit Usage Card",
+    "category": "cards",
+    "description": "Displays credit consumption progress with clear limits and usage breakdown.",
+    "usecases": [
+      "onboarding",
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/credit-usage-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/credit-usage-card",
+    "registry": "https://registry.watermelon.sh/r/credit-usage-card.json"
+  },
+  {
+    "slug": "deployment-card",
+    "title": "Deployment Card",
+    "category": "cards",
+    "description": "Deployment card showing environment, progress, logs, duration, and commit details.",
+    "usecases": [
+      "onboarding",
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/deployment-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/deployment-card",
+    "registry": "https://registry.watermelon.sh/r/deployment-card.json"
+  },
+  {
+    "slug": "dialog-stack",
+    "title": "Dialog Stack",
+    "category": "dialog",
+    "description": "A layered modal component that stacks multiple dialogs with smooth spring-weighted transitions.",
+    "usecases": [
+      "cards",
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/dialog-stack.json",
+    "preview": "https://ui.watermelon.sh/animated-components/dialog-stack",
+    "registry": "https://registry.watermelon.sh/r/dialog-stack.json"
+  },
+  {
+    "slug": "discrete-tabs",
+    "title": "Discrete Tabs",
+    "category": "tabs",
+    "description": "Animated tabs component with smooth morphing transitions between active states.",
+    "usecases": [
+      "hero",
+      "nav",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/discrete-tabs.json",
+    "preview": "https://ui.watermelon.sh/animated-components/discrete-tabs",
+    "registry": "https://registry.watermelon.sh/r/discrete-tabs.json"
+  },
+  {
+    "slug": "dock",
+    "title": "Dock Component",
+    "category": "micro-interaction",
+    "description": "An animated dock component inspired by the macOS dock with smooth scaling and hover interactions. Icons respond dynamically to cursor movement, creating a lively and responsive feel.",
+    "usecases": [
+      "nav",
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/dock.json",
+    "preview": "https://ui.watermelon.sh/animated-components/dock",
+    "registry": "https://registry.watermelon.sh/r/dock.json"
+  },
+  {
+    "slug": "draw-signature",
+    "title": "Draw Signature",
+    "category": "inputs",
+    "description": "A premium interactive signature component that captures fluid strokes with a custom pen cursor and step-based workflow.",
+    "usecases": [
+      "hero",
+      "onboarding",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/draw-signature.json",
+    "preview": "https://ui.watermelon.sh/animated-components/draw-signature",
+    "registry": "https://registry.watermelon.sh/r/draw-signature.json"
+  },
+  {
+    "slug": "dropdown-disclosure",
+    "title": "Dropdown Disclosure",
+    "category": "micro-interaction",
+    "description": "A sophisticated dropdown menu with shared layout transitions and spring-driven animations for item selection.",
+    "usecases": [
+      "nav",
+      "onboarding",
+      "forms",
+      "social"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/dropdown-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/dropdown-disclosure",
+    "registry": "https://registry.watermelon.sh/r/dropdown-disclosure.json"
+  },
+  {
+    "slug": "edit-badge",
+    "title": "Edit Badge",
+    "category": "interaction",
+    "description": "A premium interactive badge component with an inline editor for real-time text, icon, and color customization.",
+    "usecases": [
+      "interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/edit-badge.json",
+    "preview": "https://ui.watermelon.sh/animated-components/edit-badge",
+    "registry": "https://registry.watermelon.sh/r/edit-badge.json"
+  },
+  {
+    "slug": "edit-profile",
+    "title": "Edit Profile",
+    "category": "dialog",
+    "description": "Profile editing dialog with fields, validation, and save actions.",
+    "usecases": [
+      "feedback",
+      "social"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/edit-profile.json",
+    "preview": "https://ui.watermelon.sh/animated-components/edit-profile",
+    "registry": "https://registry.watermelon.sh/r/edit-profile.json"
+  },
+  {
+    "slug": "editable-chip",
+    "title": "Editable Chip",
+    "category": "micro-interaction",
+    "description": "An interactive editable chip component with smooth animations for editing.",
+    "usecases": [
+      "nav",
+      "onboarding",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/editable-chip.json",
+    "preview": "https://ui.watermelon.sh/animated-components/editable-chip",
+    "registry": "https://registry.watermelon.sh/r/editable-chip.json"
+  },
+  {
+    "slug": "emoji-spree-choice-chips",
+    "title": "Emoji Spree Choice Chips",
+    "category": "choice-chips",
+    "description": "A playful multi-select component with exploding emoji particles and smooth spring animations.",
+    "usecases": [
+      "onboarding",
+      "forms",
+      "mascot_companion"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/emoji-spree-choice-chips.json",
+    "preview": "https://ui.watermelon.sh/animated-components/emoji-spree-choice-chips",
+    "registry": "https://registry.watermelon.sh/r/emoji-spree-choice-chips.json"
+  },
+  {
+    "slug": "event-reminders",
+    "title": "Event Reminders",
+    "category": "micro-interaction",
+    "description": "Set and manage event reminders with lightweight interactive scheduling controls.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/event-reminders.json",
+    "preview": "https://ui.watermelon.sh/animated-components/event-reminders",
+    "registry": "https://registry.watermelon.sh/r/event-reminders.json"
+  },
+  {
+    "slug": "expand-details",
+    "title": "Expand Details",
+    "category": "micro-interaction",
+    "description": "Interactive micro-interaction component for expanding details.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/expand-details.json",
+    "preview": "https://ui.watermelon.sh/animated-components/expand-details",
+    "registry": "https://registry.watermelon.sh/r/expand-details.json"
+  },
+  {
+    "slug": "expandable-event-card",
+    "title": "Expandable Event Card",
+    "category": "cards",
+    "description": "A stylish animated card that expands to a full-screen modal, perfect for showcasing events, concerts, or featured destinations.",
+    "usecases": [
+      "cards",
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/expandable-event-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/expandable-event-card",
+    "registry": "https://registry.watermelon.sh/r/expandable-event-card.json"
+  },
+  {
+    "slug": "expandable-profile-card",
+    "title": "Expandable Profile Card",
+    "category": "cards",
+    "description": "An elegant animated card that expands to a detailed side-by-side view, perfect for profile cards.",
+    "usecases": [
+      "cards",
+      "social"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/expandable-profile-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/expandable-profile-card",
+    "registry": "https://registry.watermelon.sh/r/expandable-profile-card.json"
+  },
+  {
+    "slug": "extended-toolbar",
+    "title": "Extended Toolbar",
+    "category": "micro-interaction",
+    "description": "A responsive extended toolbar component that enhances usability with smooth micro-interactions, contextual actions, and instant visual feedback for quick and confident user interactions.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/extended-toolbar.json",
+    "preview": "https://ui.watermelon.sh/animated-components/extended-toolbar",
+    "registry": "https://registry.watermelon.sh/r/extended-toolbar.json"
+  },
+  {
+    "slug": "family-receive-button",
+    "title": "Family Receive Button",
+    "category": "buttons",
+    "description": "Features a toggle button that transforms into a full confirmation modal with backdrop blur and elegant motion design.",
+    "usecases": [
+      "cta",
+      "forms",
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/family-receive-button.json",
+    "preview": "https://ui.watermelon.sh/animated-components/family-receive-button",
+    "registry": "https://registry.watermelon.sh/r/family-receive-button.json"
+  },
+  {
+    "slug": "family-wallet",
+    "title": "Family Wallet",
+    "category": "micro-interaction",
+    "description": "An animated wallet interface inspired by family account interactions with smooth card transitions.",
+    "usecases": [
+      "cards",
+      "mascot_companion"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/family-wallet.json",
+    "preview": "https://ui.watermelon.sh/animated-components/family-wallet",
+    "registry": "https://registry.watermelon.sh/r/family-wallet.json"
+  },
+  {
+    "slug": "feature-tour",
+    "title": "Feature Tour",
+    "category": "micro-interaction",
+    "description": "A premium guided tour component with blur animations, shining titles, and intuitive navigation.",
+    "usecases": [
+      "nav",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/feature-tour.json",
+    "preview": "https://ui.watermelon.sh/animated-components/feature-tour",
+    "registry": "https://registry.watermelon.sh/r/feature-tour.json"
+  },
+  {
+    "slug": "feedback",
+    "title": "Feedback",
+    "category": "micro-interaction",
+    "description": "A premium feedback component with morphing icons, smooth transitions, and a refined dark mode experience.",
+    "usecases": [
+      "hero"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/feedback.json",
+    "preview": "https://ui.watermelon.sh/animated-components/feedback",
+    "registry": "https://registry.watermelon.sh/r/feedback.json"
+  },
+  {
+    "slug": "feedback-action",
+    "title": "Feedback Action",
+    "category": "micro-interaction",
+    "description": "Trigger quick user feedback actions through subtle animated interaction buttons.",
+    "usecases": [
+      "cta"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/feedback-action.json",
+    "preview": "https://ui.watermelon.sh/animated-components/feedback-action",
+    "registry": "https://registry.watermelon.sh/r/feedback-action.json"
+  },
+  {
+    "slug": "filter-disclosure",
+    "title": "Filter Disclosure",
+    "category": "filters",
+    "description": "A smooth expanding filter component with active state indicators.",
+    "usecases": [
+      "onboarding",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/filter-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/filter-disclosure",
+    "registry": "https://registry.watermelon.sh/r/filter-disclosure.json"
+  },
+  {
+    "slug": "floating-disclosure",
+    "title": "Floating Disclosure",
+    "category": "popover",
+    "description": "A compact expandable action menu with animated resizing,  floating close button, and spring-based item reveal.",
+    "usecases": [
+      "nav",
+      "cta",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/floating-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/floating-disclosure",
+    "registry": "https://registry.watermelon.sh/r/floating-disclosure.json"
+  },
+  {
+    "slug": "floating-input",
+    "title": "Floating Input",
+    "category": "inputs",
+    "description": "An input field with floating label animation.",
+    "usecases": [
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/floating-input.json",
+    "preview": "https://ui.watermelon.sh/animated-components/floating-input",
+    "registry": "https://registry.watermelon.sh/r/floating-input.json"
+  },
+  {
+    "slug": "fluid-tabs",
+    "title": "Fluid Tabs",
+    "category": "tabs",
+    "description": "A fluid, spring-animated tab component with floating active indicator and icon scaling.",
+    "usecases": [
+      "hero",
+      "nav"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/fluid-tabs.json",
+    "preview": "https://ui.watermelon.sh/animated-components/fluid-tabs",
+    "registry": "https://registry.watermelon.sh/r/fluid-tabs.json"
+  },
+  {
+    "slug": "fractional-picker",
+    "title": "Fractional Picker",
+    "category": "micro-interaction",
+    "description": "A smooth draggable ruler-style picker for selecting numeric values with spring snapping.",
+    "usecases": [
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/fractional-picker.json",
+    "preview": "https://ui.watermelon.sh/animated-components/fractional-picker",
+    "registry": "https://registry.watermelon.sh/r/fractional-picker.json"
+  },
+  {
+    "slug": "frequency-selector",
+    "title": "Frequency Selector",
+    "category": "tabs",
+    "description": "Select recurring time intervals using animated tabs and contextual sub options.",
+    "usecases": [
+      "nav",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/frequency-selector.json",
+    "preview": "https://ui.watermelon.sh/animated-components/frequency-selector",
+    "registry": "https://registry.watermelon.sh/r/frequency-selector.json"
+  },
+  {
+    "slug": "fund-widget",
+    "title": "Fund Widget",
+    "category": "widgets",
+    "description": "An animated fund widget featuring smooth 3D transforms and progressive blur effects.",
+    "usecases": [
+      "onboarding",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/fund-widget.json",
+    "preview": "https://ui.watermelon.sh/animated-components/fund-widget",
+    "registry": "https://registry.watermelon.sh/r/fund-widget.json"
+  },
+  {
+    "slug": "gooey-menu",
+    "title": "Gooey Menu",
+    "category": "tooltip",
+    "description": "An interactive Next.js logo with expandable tooltip that shows framework information.",
+    "usecases": [
+      "nav",
+      "forms",
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/gooey-menu.json",
+    "preview": "https://ui.watermelon.sh/animated-components/gooey-menu",
+    "registry": "https://registry.watermelon.sh/r/gooey-menu.json"
+  },
+  {
+    "slug": "inline-action",
+    "title": "Inline Action",
+    "category": "action",
+    "description": "Inline actions enabling quick edits without leaving current context view.",
+    "usecases": [
+      "action"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/inline-action.json",
+    "preview": "https://ui.watermelon.sh/animated-components/inline-action",
+    "registry": "https://registry.watermelon.sh/r/inline-action.json"
+  },
+  {
+    "slug": "inline-disclosure-menu",
+    "title": "Inline Disclosure Menu",
+    "category": "dropdown",
+    "description": "An animated inline action menu with contextul Options and a two-step delete confirmation flow.",
+    "usecases": [
+      "nav",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/inline-disclosure-menu.json",
+    "preview": "https://ui.watermelon.sh/animated-components/inline-disclosure-menu",
+    "registry": "https://registry.watermelon.sh/r/inline-disclosure-menu.json"
+  },
+  {
+    "slug": "inline-edit",
+    "title": "Inline Edit",
+    "category": "micro-interaction",
+    "description": "A sleek, interactive editor that transitions seamlessly between display and edit modes using smooth layout animations.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/inline-edit.json",
+    "preview": "https://ui.watermelon.sh/animated-components/inline-edit",
+    "registry": "https://registry.watermelon.sh/r/inline-edit.json"
+  },
+  {
+    "slug": "inline-overflow",
+    "title": "Inline Overflow",
+    "category": "disclosure",
+    "description": "An interactive inline overflow menu that reveals additional actions with spring animations.",
+    "usecases": [
+      "nav",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/inline-overflow.json",
+    "preview": "https://ui.watermelon.sh/animated-components/inline-overflow",
+    "registry": "https://registry.watermelon.sh/r/inline-overflow.json"
+  },
+  {
+    "slug": "inline-table-control",
+    "title": "Inline Table Control",
+    "category": "micro-interaction",
+    "description": "Inline controls for editing table rows without breaking user focus.",
+    "usecases": [
+      "nav",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/inline-table-control.json",
+    "preview": "https://ui.watermelon.sh/animated-components/inline-table-control",
+    "registry": "https://registry.watermelon.sh/r/inline-table-control.json"
+  },
+  {
+    "slug": "inline-toast",
+    "title": "Inline Toast",
+    "category": "micro-interaction",
+    "description": "An animated inline toast that provides instant feedback with a built-in copy action.",
+    "usecases": [
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/inline-toast.json",
+    "preview": "https://ui.watermelon.sh/animated-components/inline-toast",
+    "registry": "https://registry.watermelon.sh/r/inline-toast.json"
+  },
+  {
+    "slug": "integration-card",
+    "title": "Integration Card",
+    "category": "cards",
+    "description": "Show connected services with status, actions, and simple integration management.",
+    "usecases": [
+      "cards",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/integration-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/integration-card",
+    "registry": "https://registry.watermelon.sh/r/integration-card.json"
+  },
+  {
+    "slug": "invite-disclosure",
+    "title": "Invite Disclosure",
+    "category": "disclosure",
+    "description": "A sleek, morphing disclosure component for managing invitations with interactive badge counts and spring animations.",
+    "usecases": [
+      "hero",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/invite-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/invite-disclosure",
+    "registry": "https://registry.watermelon.sh/r/invite-disclosure.json"
+  },
+  {
+    "slug": "journal-navigation",
+    "title": "Journal Navigation",
+    "category": "navigation",
+    "description": "Organized journal navigation enabling quick section switching with smooth animated transitions.",
+    "usecases": [
+      "nav"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/journal-navigation.json",
+    "preview": "https://ui.watermelon.sh/animated-components/journal-navigation",
+    "registry": "https://registry.watermelon.sh/r/journal-navigation.json"
+  },
+  {
+    "slug": "knob-slider",
+    "title": "Knob Slider",
+    "category": "sliders",
+    "description": "A premium radial dial component with tactile feedback, blur animations, and full theme integration.",
+    "usecases": [
+      "carousel"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/knob-slider.json",
+    "preview": "https://ui.watermelon.sh/animated-components/knob-slider",
+    "registry": "https://registry.watermelon.sh/r/knob-slider.json"
+  },
+  {
+    "slug": "labeled-progress-indicator",
+    "title": "Labeled Progress Indicator",
+    "category": "micro-interaction",
+    "description": "An animated progress indicator with dynamic labels that update smoothly.",
+    "usecases": [
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/labeled-progress-indicator.json",
+    "preview": "https://ui.watermelon.sh/animated-components/labeled-progress-indicator",
+    "registry": "https://registry.watermelon.sh/r/labeled-progress-indicator.json"
+  },
+  {
+    "slug": "layered-progressive-disclosure",
+    "title": "Layered Progressive Disclosure",
+    "category": "interaction",
+    "description": "A premium layered progressive disclosure panel with animated feature toggles, asymmetric controls, and tabbed micro-interactions for advanced configuration workflows.",
+    "usecases": [
+      "nav",
+      "onboarding",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/layered-progressive-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/layered-progressive-disclosure",
+    "registry": "https://registry.watermelon.sh/r/layered-progressive-disclosure.json"
+  },
+  {
+    "slug": "licence-key",
+    "title": "Licence Key",
+    "category": "micro-interaction",
+    "description": "Interactive micro-interaction component for licence keys.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/licence-key.json",
+    "preview": "https://ui.watermelon.sh/animated-components/licence-key",
+    "registry": "https://registry.watermelon.sh/r/licence-key.json"
+  },
+  {
+    "slug": "list-stack",
+    "title": "List Stack",
+    "category": "micro-interaction",
+    "description": "An animated stacked list that smoothly expands and collapses to reveal or hide items.",
+    "usecases": [
+      "cards",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/list-stack.json",
+    "preview": "https://ui.watermelon.sh/animated-components/list-stack",
+    "registry": "https://registry.watermelon.sh/r/list-stack.json"
+  },
+  {
+    "slug": "macos-sidebar",
+    "title": "macOS Sidebar",
+    "category": "navigation",
+    "description": "A premium macOS-style collapsible sidebar with smooth spring-driven width transitions, hover morphing, and tactile selection feedback.",
+    "usecases": [
+      "hero",
+      "nav",
+      "cards",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/macos-sidebar.json",
+    "preview": "https://ui.watermelon.sh/animated-components/macos-sidebar",
+    "registry": "https://registry.watermelon.sh/r/macos-sidebar.json"
+  },
+  {
+    "slug": "meeting-card",
+    "title": "Meeting Card",
+    "category": "cards",
+    "description": "Summarize meeting details with time, participants, and quick action controls.",
+    "usecases": [
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/meeting-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/meeting-card",
+    "registry": "https://registry.watermelon.sh/r/meeting-card.json"
+  },
+  {
+    "slug": "minimal-carousel",
+    "title": "Minimal Carousel",
+    "category": "carousel",
+    "description": "Interactive wallet interface with expandable cards featuring smooth layout animations and micro-interactions.",
+    "usecases": [
+      "cards",
+      "carousel",
+      "mascot_companion"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/minimal-carousel.json",
+    "preview": "https://ui.watermelon.sh/animated-components/minimal-carousel",
+    "registry": "https://registry.watermelon.sh/r/minimal-carousel.json"
+  },
+  {
+    "slug": "morphing-button",
+    "title": "Morphing Button",
+    "category": "buttons",
+    "description": "An animated button that smoothly morphs into an expanded interactive state.",
+    "usecases": [
+      "hero",
+      "cta",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/morphing-button.json",
+    "preview": "https://ui.watermelon.sh/animated-components/morphing-button",
+    "registry": "https://registry.watermelon.sh/r/morphing-button.json"
+  },
+  {
+    "slug": "morphing-discovery-bar",
+    "title": "Morphing Discovery Bar",
+    "category": "tabs",
+    "description": "A responsive extended toolbar component that enhances usability with smooth micro-interactions, contextual actions, and instant visual feedback for quick and confident user interactions.",
+    "usecases": [
+      "hero",
+      "nav"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/morphing-discovery-bar.json",
+    "preview": "https://ui.watermelon.sh/animated-components/morphing-discovery-bar",
+    "registry": "https://registry.watermelon.sh/r/morphing-discovery-bar.json"
+  },
+  {
+    "slug": "morphing-sidebar-controls",
+    "title": "Morphing Sidebar Controls",
+    "category": "interaction",
+    "description": "A premium morphing sidebar control panel with progressive configuration, motion presets, and animated layout transitions for advanced animation workflows.",
+    "usecases": [
+      "hero",
+      "nav",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/morphing-sidebar-controls.json",
+    "preview": "https://ui.watermelon.sh/animated-components/morphing-sidebar-controls",
+    "registry": "https://registry.watermelon.sh/r/morphing-sidebar-controls.json"
+  },
+  {
+    "slug": "onboarding-checklist",
+    "title": "Onboarding Checklist",
+    "category": "cards",
+    "description": "Step-by-step onboarding checklist with progress tracking and completion feedback.",
+    "usecases": [
+      "onboarding",
+      "cards",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/onboarding-checklist.json",
+    "preview": "https://ui.watermelon.sh/animated-components/onboarding-checklist",
+    "registry": "https://registry.watermelon.sh/r/onboarding-checklist.json"
+  },
+  {
+    "slug": "onboarding-screen",
+    "title": "Onboarding Screen",
+    "category": "cards",
+    "description": "Clean onboarding screen guiding users through setup with visual steps.",
+    "usecases": [
+      "onboarding",
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/onboarding-screen.json",
+    "preview": "https://ui.watermelon.sh/animated-components/onboarding-screen",
+    "registry": "https://registry.watermelon.sh/r/onboarding-screen.json"
+  },
+  {
+    "slug": "onboarding-setup",
+    "title": "Onboarding Setup",
+    "category": "cards",
+    "description": "Onboarding setup card guiding users through initial configuration steps.",
+    "usecases": [
+      "onboarding",
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/onboarding-setup.json",
+    "preview": "https://ui.watermelon.sh/animated-components/onboarding-setup",
+    "registry": "https://registry.watermelon.sh/r/onboarding-setup.json"
+  },
+  {
+    "slug": "pin-item",
+    "title": "Pin Item",
+    "category": "lists",
+    "description": "A sleek list component with shared-layout transitions for pinning items and managing priority views.",
+    "usecases": [
+      "data",
+      "social"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/pin-item.json",
+    "preview": "https://ui.watermelon.sh/animated-components/pin-item",
+    "registry": "https://registry.watermelon.sh/r/pin-item.json"
+  },
+  {
+    "slug": "pop-stepper",
+    "title": "Pop Stepper",
+    "category": "micro-interaction",
+    "description": "Interactive micro-interaction component for pop stepper.",
+    "usecases": [
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/pop-stepper.json",
+    "preview": "https://ui.watermelon.sh/animated-components/pop-stepper",
+    "registry": "https://registry.watermelon.sh/r/pop-stepper.json"
+  },
+  {
+    "slug": "predictive-text",
+    "title": "Predictive Text",
+    "category": "micro-interaction",
+    "description": "Suggests next words in real time while users type naturally.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/predictive-text.json",
+    "preview": "https://ui.watermelon.sh/animated-components/predictive-text",
+    "registry": "https://registry.watermelon.sh/r/predictive-text.json"
+  },
+  {
+    "slug": "pricing-widget",
+    "title": "Pricing Widget",
+    "category": "widgets",
+    "description": "An animated pricing widget with smooth transitions and dynamic value updates.",
+    "usecases": [
+      "widgets"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/pricing-widget.json",
+    "preview": "https://ui.watermelon.sh/animated-components/pricing-widget",
+    "registry": "https://registry.watermelon.sh/r/pricing-widget.json"
+  },
+  {
+    "slug": "profile-card",
+    "title": "Profile Card",
+    "category": "cards",
+    "description": "Compact profile card displaying user details with quick actions.",
+    "usecases": [
+      "cards",
+      "social"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/profile-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/profile-card",
+    "registry": "https://registry.watermelon.sh/r/profile-card.json"
+  },
+  {
+    "slug": "progressive-input-stack",
+    "title": "Progressive Input Stack",
+    "category": "widgets",
+    "description": "An animated input stack that progressively layers form fields as users complete each step.",
+    "usecases": [
+      "onboarding",
+      "cards",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/progressive-input-stack.json",
+    "preview": "https://ui.watermelon.sh/animated-components/progressive-input-stack",
+    "registry": "https://registry.watermelon.sh/r/progressive-input-stack.json"
+  },
+  {
+    "slug": "quick-feedback",
+    "title": "Quick Feedback",
+    "category": "micro-interaction",
+    "description": "A responsive feedback component built for instant user responses, using subtle micro-interactions and snappy visual cues to confirm actions in real time.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/quick-feedback.json",
+    "preview": "https://ui.watermelon.sh/animated-components/quick-feedback",
+    "registry": "https://registry.watermelon.sh/r/quick-feedback.json"
+  },
+  {
+    "slug": "quick-option-picker",
+    "title": "Quick Option Picker",
+    "category": "micro-interaction",
+    "description": "A sleek, interactive option picker with smooth roll animations and a premium feel.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/quick-option-picker.json",
+    "preview": "https://ui.watermelon.sh/animated-components/quick-option-picker",
+    "registry": "https://registry.watermelon.sh/r/quick-option-picker.json"
+  },
+  {
+    "slug": "quick-paste",
+    "title": "Quick Paste",
+    "category": "micro-interaction",
+    "description": "Instantly paste copied content using shortcut-triggered micro interaction panel.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/quick-paste.json",
+    "preview": "https://ui.watermelon.sh/animated-components/quick-paste",
+    "registry": "https://registry.watermelon.sh/r/quick-paste.json"
+  },
+  {
+    "slug": "quick-switcher",
+    "title": "Quick Switcher",
+    "category": "micro-interaction",
+    "description": "A premium, dual-mode action bar that enables fast switching between two distinct modes with fluid animations and spring physics.",
+    "usecases": [
+      "hero"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/quick-switcher.json",
+    "preview": "https://ui.watermelon.sh/animated-components/quick-switcher",
+    "registry": "https://registry.watermelon.sh/r/quick-switcher.json"
+  },
+  {
+    "slug": "radial-carousel",
+    "title": "Radial Carousel",
+    "category": "carousel",
+    "description": "A stunning radial carousel component with spring animations, drag-to-rotate interaction, and adaptive layout.",
+    "usecases": [
+      "carousel"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/radial-carousel.json",
+    "preview": "https://ui.watermelon.sh/animated-components/radial-carousel",
+    "registry": "https://registry.watermelon.sh/r/radial-carousel.json"
+  },
+  {
+    "slug": "range-selection-slider",
+    "title": "Range Selection Slider",
+    "category": "widgets",
+    "description": "A responsive range selection slider widget that allows users to precisely choose values, enhanced with smooth interactions and immediate visual feedback for accurate control.",
+    "usecases": [
+      "carousel",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/range-selection-slider.json",
+    "preview": "https://ui.watermelon.sh/animated-components/range-selection-slider",
+    "registry": "https://registry.watermelon.sh/r/range-selection-slider.json"
+  },
+  {
+    "slug": "returns-calculator-snippet",
+    "title": "Returns Calculator Snippet",
+    "category": "cards",
+    "description": "A responsive returns calculator card snippet that lets users quickly estimate investment outcomes, featuring clear inputs, smooth interactions, and instant visual feedback for confident decision-making.",
+    "usecases": [
+      "cards",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/returns-calculator-snippet.json",
+    "preview": "https://ui.watermelon.sh/animated-components/returns-calculator-snippet",
+    "registry": "https://registry.watermelon.sh/r/returns-calculator-snippet.json"
+  },
+  {
+    "slug": "reveal-copy",
+    "title": "Reveal Copy",
+    "category": "micro-interaction",
+    "description": "An animated reveal copy component that smoothly uncovers content with interactive motion.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/reveal-copy.json",
+    "preview": "https://ui.watermelon.sh/animated-components/reveal-copy",
+    "registry": "https://registry.watermelon.sh/r/reveal-copy.json"
+  },
+  {
+    "slug": "revealing-cards",
+    "title": "Revealing Cards",
+    "category": "micro-interaction",
+    "description": "Interactive micro-interaction component for revealing cards.",
+    "usecases": [
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/revealing-cards.json",
+    "preview": "https://ui.watermelon.sh/animated-components/revealing-cards",
+    "registry": "https://registry.watermelon.sh/r/revealing-cards.json"
+  },
+  {
+    "slug": "run-action-button",
+    "title": "Run Action Button",
+    "category": "buttons",
+    "description": "An animated action button that executes a sequence of steps with smooth visual transitions.",
+    "usecases": [
+      "cta",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/run-action-button.json",
+    "preview": "https://ui.watermelon.sh/animated-components/run-action-button",
+    "registry": "https://registry.watermelon.sh/r/run-action-button.json"
+  },
+  {
+    "slug": "run-widget",
+    "title": "Run Widget",
+    "category": "widgets",
+    "description": "An animated run widget that dynamically displays distance with smooth number transitions",
+    "usecases": [
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/run-widget.json",
+    "preview": "https://ui.watermelon.sh/animated-components/run-widget",
+    "registry": "https://registry.watermelon.sh/r/run-widget.json"
+  },
+  {
+    "slug": "save-toggle",
+    "title": "Save Toggle",
+    "category": "buttons",
+    "description": "An animated save toggle button that smoothly transitions between multiple states.",
+    "usecases": [
+      "cta",
+      "forms",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/save-toggle.json",
+    "preview": "https://ui.watermelon.sh/animated-components/save-toggle",
+    "registry": "https://registry.watermelon.sh/r/save-toggle.json"
+  },
+  {
+    "slug": "schedule-button",
+    "title": "Schedule Button",
+    "category": "interaction",
+    "description": "A tactile, interactive button for scheduling posts with date and time selection.",
+    "usecases": [
+      "cta",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/schedule-button.json",
+    "preview": "https://ui.watermelon.sh/animated-components/schedule-button",
+    "registry": "https://registry.watermelon.sh/r/schedule-button.json"
+  },
+  {
+    "slug": "schedule-date",
+    "title": "Schedule Date",
+    "category": "scheduler",
+    "description": "Date scheduling dialog with calendar selection, time picking, and confirmations.",
+    "usecases": [
+      "forms",
+      "feedback",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/schedule-date.json",
+    "preview": "https://ui.watermelon.sh/animated-components/schedule-date",
+    "registry": "https://registry.watermelon.sh/r/schedule-date.json"
+  },
+  {
+    "slug": "scroll-island",
+    "title": "Scroll Island",
+    "category": "micro-interaction",
+    "description": "Floating scroll island providing progress, actions, and contextual indicators.",
+    "usecases": [
+      "onboarding",
+      "carousel"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/scroll-island.json",
+    "preview": "https://ui.watermelon.sh/animated-components/scroll-island",
+    "registry": "https://registry.watermelon.sh/r/scroll-island.json"
+  },
+  {
+    "slug": "scrub-slider",
+    "title": "Scrub Slider",
+    "category": "micro-interaction",
+    "description": "An animated scrub slider that responds smoothly to drag and scrub interactions.",
+    "usecases": [
+      "carousel"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/scrub-slider.json",
+    "preview": "https://ui.watermelon.sh/animated-components/scrub-slider",
+    "registry": "https://registry.watermelon.sh/r/scrub-slider.json"
+  },
+  {
+    "slug": "select-ai-agent",
+    "title": "Select AI Agent",
+    "category": "micro-interaction",
+    "description": "Choose an AI agent quickly with options and smooth feedback.",
+    "usecases": [
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/select-ai-agent.json",
+    "preview": "https://ui.watermelon.sh/animated-components/select-ai-agent",
+    "registry": "https://registry.watermelon.sh/r/select-ai-agent.json"
+  },
+  {
+    "slug": "send-money",
+    "title": "Send Money",
+    "category": "micro-interaction",
+    "description": "Quick send money interaction with confirmation, status, and feedback states.",
+    "usecases": [
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/send-money.json",
+    "preview": "https://ui.watermelon.sh/animated-components/send-money",
+    "registry": "https://registry.watermelon.sh/r/send-money.json"
+  },
+  {
+    "slug": "share-sheet",
+    "title": "share sheet",
+    "category": "widgets",
+    "description": "An animated share sheet widget that smoothly expands to reveal a list of users for quick link sharing.",
+    "usecases": [
+      "data",
+      "social"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/share-sheet.json",
+    "preview": "https://ui.watermelon.sh/animated-components/share-sheet",
+    "registry": "https://registry.watermelon.sh/r/share-sheet.json"
+  },
+  {
+    "slug": "shimmer-button",
+    "title": "Shimmer Button",
+    "category": "buttons",
+    "description": "A button with an animated shimmer effect on hover.",
+    "usecases": [
+      "cta",
+      "cards"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/shimmer-button.json",
+    "preview": "https://ui.watermelon.sh/animated-components/shimmer-button",
+    "registry": "https://registry.watermelon.sh/r/shimmer-button.json"
+  },
+  {
+    "slug": "show-qr",
+    "title": "Show QR",
+    "category": "widgets",
+    "description": "A widget to show QR code.",
+    "usecases": [
+      "widgets"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/show-qr.json",
+    "preview": "https://ui.watermelon.sh/animated-components/show-qr",
+    "registry": "https://registry.watermelon.sh/r/show-qr.json"
+  },
+  {
+    "slug": "shuffle-pinned-item",
+    "title": "Shuffle Pinned List",
+    "category": "lists",
+    "description": "A dynamic list that promotes pinned items to a shuffleable hero header with spring animations and interactive pin toggles.",
+    "usecases": [
+      "hero",
+      "nav",
+      "forms",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/shuffle-pinned-item.json",
+    "preview": "https://ui.watermelon.sh/animated-components/shuffle-pinned-item",
+    "registry": "https://registry.watermelon.sh/r/shuffle-pinned-item.json"
+  },
+  {
+    "slug": "slot-picker",
+    "title": "Slot Picker",
+    "category": "interaction",
+    "description": "A premium scheduling component for managing time slots with fluid spring animations and tactile toggles.",
+    "usecases": [
+      "hero",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/slot-picker.json",
+    "preview": "https://ui.watermelon.sh/animated-components/slot-picker",
+    "registry": "https://registry.watermelon.sh/r/slot-picker.json"
+  },
+  {
+    "slug": "split-actions",
+    "title": "Split Actions",
+    "category": "micro-interaction",
+    "description": "Interactive micro-interaction component for split actions.",
+    "usecases": [
+      "hero"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/split-actions.json",
+    "preview": "https://ui.watermelon.sh/animated-components/split-actions",
+    "registry": "https://registry.watermelon.sh/r/split-actions.json"
+  },
+  {
+    "slug": "split-button",
+    "title": "Split Button",
+    "category": "buttons",
+    "description": "A premium split button component with spring-driven layout transitions and tactile expansion behavior for quick multi-action workflows.",
+    "usecases": [
+      "hero",
+      "cta"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/split-button.json",
+    "preview": "https://ui.watermelon.sh/animated-components/split-button",
+    "registry": "https://registry.watermelon.sh/r/split-button.json"
+  },
+  {
+    "slug": "split-to-edit",
+    "title": "Split To edit",
+    "category": "micro-interaction",
+    "description": "An animated input field that smoothly splits into editable segments during interaction",
+    "usecases": [
+      "hero",
+      "nav",
+      "forms",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/split-to-edit.json",
+    "preview": "https://ui.watermelon.sh/animated-components/split-to-edit",
+    "registry": "https://registry.watermelon.sh/r/split-to-edit.json"
+  },
+  {
+    "slug": "status-picker",
+    "title": "Status Picker",
+    "category": "micro-interaction",
+    "description": "An animated status picker that smoothly transitions between selectable states.",
+    "usecases": [
+      "nav",
+      "cta",
+      "forms",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/status-picker.json",
+    "preview": "https://ui.watermelon.sh/animated-components/status-picker",
+    "registry": "https://registry.watermelon.sh/r/status-picker.json"
+  },
+  {
+    "slug": "step-indicator",
+    "title": "Step Indicator",
+    "category": "micro-interaction",
+    "description": "An animated step indicator with a tooltip that highlights the current progress stage.",
+    "usecases": [
+      "onboarding",
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/step-indicator.json",
+    "preview": "https://ui.watermelon.sh/animated-components/step-indicator",
+    "registry": "https://registry.watermelon.sh/r/step-indicator.json"
+  },
+  {
+    "slug": "step-pager",
+    "title": "Step Pager",
+    "category": "micro-interaction",
+    "description": "An animated step pager that visually highlights the current step with smooth icon transitions.",
+    "usecases": [
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/step-pager.json",
+    "preview": "https://ui.watermelon.sh/animated-components/step-pager",
+    "registry": "https://registry.watermelon.sh/r/step-pager.json"
+  },
+  {
+    "slug": "stepper",
+    "title": "stepper",
+    "category": "buttons",
+    "description": "An animated numeric stepper with plu and minus controls and spring-based roling digit transitions.",
+    "usecases": [
+      "cta",
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/stepper.json",
+    "preview": "https://ui.watermelon.sh/animated-components/stepper",
+    "registry": "https://registry.watermelon.sh/r/stepper.json"
+  },
+  {
+    "slug": "subscription-calendar",
+    "title": "Subscription Calendar",
+    "category": "cards",
+    "description": "Calendar card showing subscription cycles, renewals, and upcoming billing dates.",
+    "usecases": [
+      "cards",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/subscription-calendar.json",
+    "preview": "https://ui.watermelon.sh/animated-components/subscription-calendar",
+    "registry": "https://registry.watermelon.sh/r/subscription-calendar.json"
+  },
+  {
+    "slug": "swap-currency-card",
+    "title": "Swap Currency Card",
+    "category": "widgets",
+    "description": "A responsive interface component designed for instant user sentiment, featuring snappy visual cues that provide immediate confirmation upon interaction.",
+    "usecases": [
+      "cards",
+      "mascot_companion"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/swap-currency-card.json",
+    "preview": "https://ui.watermelon.sh/animated-components/swap-currency-card",
+    "registry": "https://registry.watermelon.sh/r/swap-currency-card.json"
+  },
+  {
+    "slug": "swap-form",
+    "title": "Swap Form",
+    "category": "interaction",
+    "description": "A dynamic authentication form that transitions between Sign In and Sign Up modes with elegant blur and scale effects.",
+    "usecases": [
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/swap-form.json",
+    "preview": "https://ui.watermelon.sh/animated-components/swap-form",
+    "registry": "https://registry.watermelon.sh/r/swap-form.json"
+  },
+  {
+    "slug": "switch-disclosure",
+    "title": "Switch Disclosure",
+    "category": "disclosure",
+    "description": "A premium interactive disclosure component that pairs a primary switch with nested behavioral sub-options.",
+    "usecases": [
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/switch-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/switch-disclosure",
+    "registry": "https://registry.watermelon.sh/r/switch-disclosure.json"
+  },
+  {
+    "slug": "switch-mode",
+    "title": "Switch Mode",
+    "category": "toggle",
+    "description": "A premium, animated theme toggle switch with smooth spring physics and sliding icon states.",
+    "usecases": [
+      "forms",
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/switch-mode.json",
+    "preview": "https://ui.watermelon.sh/animated-components/switch-mode",
+    "registry": "https://registry.watermelon.sh/r/switch-mode.json"
+  },
+  {
+    "slug": "tags",
+    "title": "Tags",
+    "category": "interaction",
+    "description": "A dynamic tag management component with smooth shared-layout transitions and auto-scrolling.",
+    "usecases": [
+      "carousel",
+      "social"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/tags.json",
+    "preview": "https://ui.watermelon.sh/animated-components/tags",
+    "registry": "https://registry.watermelon.sh/r/tags.json"
+  },
+  {
+    "slug": "task-widget-disclosure",
+    "title": "Task Widget Disclosure",
+    "category": "disclosure",
+    "description": "An interactive task widget with smooth disclosure animations and detailed progress tracking.",
+    "usecases": [
+      "onboarding"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/task-widget-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/task-widget-disclosure",
+    "registry": "https://registry.watermelon.sh/r/task-widget-disclosure.json"
+  },
+  {
+    "slug": "time-undo-action",
+    "title": "Timed Undo Action",
+    "category": "buttons",
+    "description": "An animated timed undo button that provides a visual countdown before an action is finalized.",
+    "usecases": [
+      "cta"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/time-undo-action.json",
+    "preview": "https://ui.watermelon.sh/animated-components/time-undo-action",
+    "registry": "https://registry.watermelon.sh/r/time-undo-action.json"
+  },
+  {
+    "slug": "tooltip-navbar",
+    "title": "Tooltip Navbar",
+    "category": "tooltip",
+    "description": "Tooltip design recreated with smooth animations and interactive feedback.",
+    "usecases": [
+      "nav",
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/tooltip-navbar.json",
+    "preview": "https://ui.watermelon.sh/animated-components/tooltip-navbar",
+    "registry": "https://registry.watermelon.sh/r/tooltip-navbar.json"
+  },
+  {
+    "slug": "trade-summary",
+    "title": "Trade Summary",
+    "category": "cards",
+    "description": "Concise trade summary card showing positions, performance, and key metrics.",
+    "usecases": [
+      "cards",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/trade-summary.json",
+    "preview": "https://ui.watermelon.sh/animated-components/trade-summary",
+    "registry": "https://registry.watermelon.sh/r/trade-summary.json"
+  },
+  {
+    "slug": "transaction-list",
+    "title": "Transaction List",
+    "category": "micro-interaction",
+    "description": "An animated transaction list with smooth expand and collapse transitions for detailed views.",
+    "usecases": [
+      "data"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/transaction-list.json",
+    "preview": "https://ui.watermelon.sh/animated-components/transaction-list",
+    "registry": "https://registry.watermelon.sh/r/transaction-list.json"
+  },
+  {
+    "slug": "tree-menu",
+    "title": "Tree-menu",
+    "category": "navigation",
+    "description": "A nested tree navigation menu with animated level transitions and breadcrumb navigation.",
+    "usecases": [
+      "nav"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/tree-menu.json",
+    "preview": "https://ui.watermelon.sh/animated-components/tree-menu",
+    "registry": "https://registry.watermelon.sh/r/tree-menu.json"
+  },
+  {
+    "slug": "uniswap-dialog",
+    "title": "Uniswap Dialog",
+    "category": "dialog",
+    "description": "Interactive wallet interface with expandable cards featuring smooth layout animations and micro-interactions.",
+    "usecases": [
+      "cards",
+      "feedback",
+      "mascot_companion"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/uniswap-dialog.json",
+    "preview": "https://ui.watermelon.sh/animated-components/uniswap-dialog",
+    "registry": "https://registry.watermelon.sh/r/uniswap-dialog.json"
+  },
+  {
+    "slug": "vertical-tooltip-navbar",
+    "title": "Vertical Tooltip Navbar",
+    "category": "tooltip",
+    "description": "A vertical tooltip menu with smooth clip-path animations that reveal tooltips on hover",
+    "usecases": [
+      "nav",
+      "cards",
+      "feedback"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/vertical-tooltip-navbar.json",
+    "preview": "https://ui.watermelon.sh/animated-components/vertical-tooltip-navbar",
+    "registry": "https://registry.watermelon.sh/r/vertical-tooltip-navbar.json"
+  },
+  {
+    "slug": "view-on-map",
+    "title": "View On Map",
+    "category": "map",
+    "description": "Map view component displaying locations with zoom, pins, and directions.",
+    "usecases": [
+      "map"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/view-on-map.json",
+    "preview": "https://ui.watermelon.sh/animated-components/view-on-map",
+    "registry": "https://registry.watermelon.sh/r/view-on-map.json"
+  },
+  {
+    "slug": "voice-chat-disclosure",
+    "title": "Voice Chat Disclosure",
+    "category": "interaction",
+    "description": "An interactive, expandable voice chat pill with avatar stacking and animated voice indicators.",
+    "usecases": [
+      "onboarding",
+      "cards",
+      "social",
+      "mascot_companion"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/voice-chat-disclosure.json",
+    "preview": "https://ui.watermelon.sh/animated-components/voice-chat-disclosure",
+    "registry": "https://registry.watermelon.sh/r/voice-chat-disclosure.json"
+  },
+  {
+    "slug": "voice-note",
+    "title": "Voice Note",
+    "category": "micro-interaction",
+    "description": "Voice note interaction for recording, previewing, and managing audio snippets.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/voice-note.json",
+    "preview": "https://ui.watermelon.sh/animated-components/voice-note",
+    "registry": "https://registry.watermelon.sh/r/voice-note.json"
+  },
+  {
+    "slug": "voice-transcribe",
+    "title": "Voice Transcribe",
+    "category": "micro-interaction",
+    "description": "Convert speech into text instantly with smooth, responsive Voice Transcribe.",
+    "usecases": [
+      "micro-interaction"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/voice-transcribe.json",
+    "preview": "https://ui.watermelon.sh/animated-components/voice-transcribe",
+    "registry": "https://registry.watermelon.sh/r/voice-transcribe.json"
+  },
+  {
+    "slug": "waveform-scrub",
+    "title": "Waveform Scrub",
+    "category": "media",
+    "description": "Interactive waveform scrubber enabling precise audio navigation and playback control.",
+    "usecases": [
+      "nav",
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/waveform-scrub.json",
+    "preview": "https://ui.watermelon.sh/animated-components/waveform-scrub",
+    "registry": "https://registry.watermelon.sh/r/waveform-scrub.json"
+  },
+  {
+    "slug": "weight-widget",
+    "title": "Weight Widget",
+    "category": "widgets",
+    "description": "A tactile, sliding scale component designed for precise weight input with a premium haptic feel.",
+    "usecases": [
+      "forms"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/weight-widget.json",
+    "preview": "https://ui.watermelon.sh/animated-components/weight-widget",
+    "registry": "https://registry.watermelon.sh/r/weight-widget.json"
+  },
+  {
+    "slug": "wiggling-cards",
+    "title": "Wiggling Cards",
+    "category": "carousel",
+    "description": "An animated card carousel with a playful wiggling effect during navigation.",
+    "usecases": [
+      "nav",
+      "cards",
+      "carousel"
+    ],
+    "install": "npx shadcn@latest add https://registry.watermelon.sh/r/wiggling-cards.json",
+    "preview": "https://ui.watermelon.sh/animated-components/wiggling-cards",
+    "registry": "https://registry.watermelon.sh/r/wiggling-cards.json"
+  }
+]

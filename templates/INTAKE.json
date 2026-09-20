@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "skill": "ultimate-web",
+  "project": "",
+  "mode": 3,
+  "architectureType": "A",
+  "legalClass": "A",
+  "language": "de-DE",
+  "address": "Sie",
+  "designRead": "",
+  "audience": "",
+  "offers": [],
+  "primaryAction": "",
+  "nap": {
+    "legalName": "",
+    "brandName": "",
+    "street": "",
+    "zip": "",
+    "city": "",
+    "phone": "",
+    "email": "",
+    "placeholder": false
+  },
+  "proofAllowed": [],
+  "assets": {
+    "logo": null,
+    "photos": [],
+    "colorsFromBrand": [],
+    "fontsFromBrand": []
+  },
+  "liveUrl": null,
+  "constraints": {
+    "regulated": false,
+    "healthHWG": false,
+    "kids": false,
+    "a11yFirst": false
+  },
+  "tasteDials": {
+    "DESIGN_VARIANCE": null,
+    "MOTION_INTENSITY": null,
+    "VISUAL_DENSITY": null
+  },
+  "godlyUrls": [],
+  "referoStyles": [],
+  "watermelonShortlist": [],
+  "stitch": {
+    "available": false,
+    "skippedReason": ""
+  },
+  "unknownFields": []
+}
